@@ -16,7 +16,7 @@
 
 - 🎵 Music and rhythm games
     - 📱 Mobile: Arcaea, Phigros
-    - 🕹️ Arcade: dance cube³
+    - 🕹️ Arcade: maimai DX, dance cube³
 
 ---
 
